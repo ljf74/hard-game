@@ -354,7 +354,7 @@ function update1() {
 
 		if (!FREE_RUN && (game.player.roundedX - 2 < enemy.x) && (game.player.roundedX + 2 > enemy.x) && collidesEnemy(enemy.x, enemy.y, 0.16)) {
 			enemySound.play()
-			//checkpoint()
+			checkpoint()
 		}
 	}
 
@@ -1304,7 +1304,7 @@ document.addEventListener("keydown", function (e) {
 	} else if (!PLAYER_INTRO && !PLAYER_LOBBY && !keys[e.key] && e.key === "r") {
 		enemySound.currentTime = 0;
 		enemySound.play()
-		//checkpoint()
+		checkpoint()
 	}
 
 	if (ALTERNATE_SCREEN === 3 && e.key === "b") {
