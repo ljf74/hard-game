@@ -1,0 +1,25 @@
+body, html {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+
+canvas {
+	image-rendering: crisp-edges;
+	image-rendering: pixelated;
+}
+
+a {
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	opacity: 25%;
+	transition: all ease-in-out 0.21s;
+}
+
+a:hover {
+	opacity: 55%;
+	transform: rotate(11deg);
+}

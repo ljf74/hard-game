@@ -1,0 +1,8 @@
+{
+	"name": "twhg",
+	"main": "index.html",
+	"window": {
+		"fullscreen": true,
+		"icon": "./favicon.png"
+	}
+}

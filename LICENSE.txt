@@ -1,0 +1,5 @@
+All rights are reserved to @tovtovim. Any forks and copies claimed to be made by any person other than me are going to be reported and their repls taken down (due to how much work was put into this). Forks are intended to only be code examiners, and not project copies. If you have questions, please comment down below (on the main page). Questions asking to take any rights to the game will not be responded to with an invisible "no."
+
+This license is only valid in the official project but nowhere else. The license must remain unaffected throughout distribution.
+
+This is absolutely not intended to be regarded as the actual game that is popular. This is just a remake.
